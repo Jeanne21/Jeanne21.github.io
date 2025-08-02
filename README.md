@@ -19,8 +19,12 @@ Welcome to my personal portfolio website! This project is built using only **HTM
 
 ## 📸 Screenshots
 
-![Web view] (images/web_view.png)
-![Mobile View] (images/mobile_view.jpg)
+### 💻 Desktop View
+![Desktop screenshot](images/web_view.png)
+
+### 📱 Mobile View
+![Mobile screenshot](images/mobile_view.png)
+
 
 ## 🚀 Getting Started
 
@@ -43,6 +47,7 @@ To view the portfolio locally:
 ## 📬 Contact Me
 📧 Email: jeannewanjiruk@gmail.com
 🌍 Location: Nairobi, Kenya
+
 
 
 
