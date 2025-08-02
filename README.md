@@ -34,9 +34,15 @@ To view the portfolio locally:
 
 2. Navigate to the project folder and open `index.html` in your browser. No build tools or server required -- just static files!
 
+### 📦 Credits
+- **Tech Stack Logos**:
+  - HTML, CSS, JavaScript, TypeScript, React, Node.js, Python, Firebase logos are official icons from [Icons8](https://icons8.com)
+
+
 ## 📬 Contact Me
 📧 Email: jeannewanjiruk@gmail.com
 🌍 Location: Nairobi, Kenya
+
 
 
 
