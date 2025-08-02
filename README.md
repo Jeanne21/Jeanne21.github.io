@@ -19,7 +19,8 @@ Welcome to my personal portfolio website! This project is built using only **HTM
 
 ## 📸 Screenshots
 
-_Include 1–2 screenshots of your site here, especially on mobile and desktop view._
+![Web view] (images/web_view.png)
+![Mobile View] (images/mobile_view.jpg)
 
 ## 🚀 Getting Started
 
@@ -28,7 +29,7 @@ To view the portfolio locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Jeanne21/portfolio-site.git
+   git clone https://github.com/Jeanne21/Jeanne21.github.io.git
 
    ```
 
@@ -42,6 +43,7 @@ To view the portfolio locally:
 ## 📬 Contact Me
 📧 Email: jeannewanjiruk@gmail.com
 🌍 Location: Nairobi, Kenya
+
 
 
 
