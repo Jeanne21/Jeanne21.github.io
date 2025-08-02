@@ -1,4 +1,4 @@
-# Jeanne Kilimo's Developer Portfolio
+# Jeanne's Developer Portfolio
 
 Welcome to my personal portfolio website! This project is built using only **HTML** and **CSS**, showcasing my skills, projects, and contact information as a passionate Software Engineer and AI/ML enthusiast.
 
@@ -34,12 +34,9 @@ To view the portfolio locally:
 
 2. Navigate to the project folder and open `index.html` in your browser. No build tools or server required -- just static files!
 
-## 📁 Project Structure
+## 📬 Contact Me
+📧 Email: jeannewanjiruk@gmail.com
+🌍 Location: Nairobi, Kenya
 
-├── index.html
-├── styles.css
-├── animations.css
-├── images/
-│ └── [All image assets like tech logos and screenshots]
-├── docs/
-│ └── cv.pdf
+
+
