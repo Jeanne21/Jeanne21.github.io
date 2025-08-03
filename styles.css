@@ -14,6 +14,7 @@ html, body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
+  width: 100%;
 }
 
 .container {
@@ -441,5 +442,6 @@ header p {
 header + .hero-header {
   margin-top: 0; /* Remove extra space after navbar */
 }
+
 
 
