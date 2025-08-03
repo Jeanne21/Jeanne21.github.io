@@ -1,3 +1,9 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -442,6 +448,7 @@ header p {
 header + .hero-header {
   margin-top: 0; /* Remove extra space after navbar */
 }
+
 
 
 
