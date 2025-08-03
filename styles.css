@@ -7,9 +7,13 @@ body {
   font-family: 'Arial', sans-serif;
   line-height: 1.6;
   background: linear-gradient(to bottom right, #0f2027, #203a43, #2c5364);
+  color: #fff;
+}
+
+html, body {
   margin: 0;
   padding: 0;
-  color: #fff;
+  overflow-x: hidden;
 }
 
 .container {
@@ -435,3 +439,4 @@ header p {
 header + .hero-header {
   margin-top: 0; /* Remove extra space after navbar */
 }
+
