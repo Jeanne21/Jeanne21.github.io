@@ -25,7 +25,6 @@ Welcome to my personal portfolio website! This project is built using only **HTM
 ### 📱 Mobile View
 ![Mobile screenshot](images/mobile_view.jpg)
 
-
 ## 🚀 Getting Started
 
 To view the portfolio locally:
@@ -39,6 +38,11 @@ To view the portfolio locally:
 
 2. Navigate to the project folder and open `index.html` in your browser. No build tools or server required -- just static files!
 
+### 🔗 Live Demo
+
+You can view my portfolio live here:  
+👉 **[https://jeanne21.github.io](https://jeanne21.github.io/)**
+
 ### 📦 Credits
 - **Tech Stack Logos**:
   - HTML, CSS, JavaScript, TypeScript, React, Node.js, Python, Firebase logos are official icons from [Icons8](https://icons8.com)
@@ -47,6 +51,7 @@ To view the portfolio locally:
 ## 📬 Contact Me
 📧 Email: jeannewanjiruk@gmail.com
 🌍 Location: Nairobi, Kenya
+
 
 
 
