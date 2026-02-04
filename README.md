@@ -28,7 +28,7 @@ To view the portfolio locally:
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/Jeanne21/portfolio-site.git](https://github.com/Jeanne21/Jeanne21.github.io.git)
+   git clone https://github.com/Jeanne21/portfolio-site.git
 
    ```
 
